@@ -15,3 +15,4 @@ Regarding my approach and strategy, I wanted to tackle the program and have a wo
 
 -The clear() function does not take in any arguments nor does it return a value. This function will create a new object to track the ip addresses. Time complexity should be constant.
 
+If I had more time, I would've written a few unit tests in Jest which I was in the process of doing. I would have also gone back to try to better optimize my getTop100() function.
