@@ -22,3 +22,9 @@ const getTop100 = () => {
   let top100addresses = sortedAddresses.slice(0, 100);
   return top100addresses;
  };
+
+const clear = () => {
+  //i: none
+  //o: none
+  ipAddressTracker = new Object();
+};
