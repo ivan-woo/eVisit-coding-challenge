@@ -28,3 +28,5 @@ const clear = () => {
   //o: none
   ipAddressTracker = new Object();
 };
+
+module.exports = {requestHandled, getTop100, clear}

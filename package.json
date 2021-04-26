@@ -1,0 +1,23 @@
+{
+  "name": "evisit-coding-challenge",
+  "version": "1.0.0",
+  "description": "## Overview The team has developed a web service. This JavaScript file contains a program that will keep track of the IP addresses that are making the most requests to the service each day.",
+  "main": "tests.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-woo/eVisit-coding-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-woo/eVisit-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/ivan-woo/eVisit-coding-challenge#readme"
+}
